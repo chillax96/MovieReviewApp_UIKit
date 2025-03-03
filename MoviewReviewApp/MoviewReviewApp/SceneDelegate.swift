@@ -9,7 +9,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         // ✅ UIWindow 설정
         let window = UIWindow(windowScene: windowScene)
-        window.rootViewController = HomeViewController() // ✅ 초기 화면을 HomeViewController로 설정
+        window.rootViewController = MovieListViewController() // ✅ 초기 화면을 MovieListViewController로 설정
         window.makeKeyAndVisible()
         
         self.window = window
