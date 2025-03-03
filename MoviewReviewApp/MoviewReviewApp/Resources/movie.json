@@ -1,0 +1,42 @@
+[
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440000",
+        "title": "Inception",
+        "director": "Christopher Nolan",
+        "releaseDate": "2010-07-16",
+        "genre": "Sci-Fi",
+        "review": "꿈과 현실을 넘나드는 놀라운 서사!"
+    },
+    {
+        "id": "6a7f2f88-b041-4f1c-a0d8-9ebadf932019",
+        "title": "Parasite",
+        "director": "Bong Joon-ho",
+        "releaseDate": "2019-05-30",
+        "genre": "Thriller",
+        "review": "빈부격차를 날카롭게 그려낸 강렬한 스릴러!"
+    },
+    {
+        "id": "84f94f15-912f-4f35-a74c-6f8ff2bfae31",
+        "title": "The Shawshank Redemption",
+        "director": "Frank Darabont",
+        "releaseDate": "1994-09-23",
+        "genre": "Drama",
+        "review": "희망과 자유에 대한 감동적인 이야기!"
+    },
+    {
+        "id": "42fd1a3b-5bb8-4889-963b-5c95d354bf1d",
+        "title": "Interstellar",
+        "director": "Christopher Nolan",
+        "releaseDate": "2014-11-07",
+        "genre": "Sci-Fi",
+        "review": "과학과 감성이 만나는 최고의 SF 명작!"
+    },
+    {
+        "id": "ba5e54c6-7f3e-4f53-b995-ff3f99ecb6de",
+        "title": "Spirited Away",
+        "director": "Hayao Miyazaki",
+        "releaseDate": "2001-07-20",
+        "genre": "Animation",
+        "review": "환상적인 세계와 감동적인 성장 스토리!"
+    }
+]
